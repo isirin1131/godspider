@@ -5,6 +5,11 @@ Use the most popular tools such as AI agent and agent skills to analyze the blog
 
 - [ ] kexue.fm
 
+# dependence
+
+[skill/dev-browser](https://github.com/SawyerHood/dev-browser/tree/main/skills/dev-browser)
+
+
 # What this repository focus on?
 
 value.
@@ -22,4 +27,3 @@ And native elegant LLM-context-window lifecycle management (
 Free and easy to fetch, high value
 
 (Although there are not many real golden eggs)
-
