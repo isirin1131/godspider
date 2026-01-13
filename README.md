@@ -5,6 +5,12 @@ Use the most popular tools such as AI agent and agent skills to analyze the blog
 
 - [ ] kexue.fm
 
+# What this repository focus on?
+
+value.
+
+The code, the agent, and the skills are both not important.
+
 # why agent skills?
 
 Easyer.
